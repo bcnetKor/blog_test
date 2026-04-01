@@ -2,10 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/exaone-path/draft.html",
-      "/posts/exaone-path/search.html",
       "/posts/notebook/index.html",
       "/posts/exaone-path/index.html",
+      "/posts/solarpro2/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
