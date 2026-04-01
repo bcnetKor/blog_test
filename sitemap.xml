@@ -9,12 +9,28 @@
     <lastmod>2026-03-31T09:20:31.785Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2026-03-31T09:25:41.470Z</lastmod>
+    <loc>https://your-website-url.example.com/posts/exaone-path/index.html</loc>
+    <lastmod>2026-04-01T08:44:26.281Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
     <lastmod>2026-03-31T09:25:41.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/about.html</loc>
+    <lastmod>2026-03-31T09:25:41.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/GEMINI.html</loc>
+    <lastmod>2026-04-01T07:11:50.745Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/exaone-path/draft.html</loc>
+    <lastmod>2026-04-01T08:43:37.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/exaone-path/search.html</loc>
+    <lastmod>2026-04-01T07:31:52.112Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>

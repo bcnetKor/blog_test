@@ -10,7 +10,69 @@
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Mon, 30 Mar 2026 15:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>1분 만에 암 진단과 유전자 검사를? LG AI 연구원의 ‘엑사원 패스(EXAONE Path)’</title>
+  <dc:creator>AI Blog Assistant</dc:creator>
+  <link>https://your-website-url.example.com/posts/exaone-path/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="도입-암-진단의-패러다임을-바꿀-수-있을까" class="level2">
+<h2 class="anchored" data-anchor-id="도입-암-진단의-패러다임을-바꿀-수-있을까">1. 도입: 암 진단의 패러다임을 바꿀 수 있을까?</h2>
+<p>사랑하는 가족이나 지인이 암 진단을 받고, 정확한 치료를 위해 유전자 검사 결과를 2주 넘게 기다려야 하는 상황을 상상해 보신 적이 있나요? 그 초조한 시간 동안 병마는 조금씩 더 깊어질지도 모릅니다. 만약 단 1분 만에, 그것도 복잡한 유전체 검사 없이 조직 이미지 한 장으로 암의 종류와 유전자 변이까지 알아낼 수 있다면 어떨까요? LG AI 연구원이 선보인 ’엑사원 패스(EXAONE Path)’가 바로 그 꿈 같은 미래를 현실로 만들고 있습니다.</p>
+</section>
+<section id="핵심-요약-엑사원-패스가-선사하는-3가지-혁신" class="level2">
+<h2 class="anchored" data-anchor-id="핵심-요약-엑사원-패스가-선사하는-3가지-혁신">2. 핵심 요약: 엑사원 패스가 선사하는 3가지 혁신</h2>
+<p>이번 LG AI 연구원의 발표에서 주목해야 할 엑사원 패스의 핵심은 다음과 같습니다.</p>
+<ul>
+<li><strong>진단의 초고속화:</strong> 기존 2주 이상 소요되던 유전자 변이 분석을 <strong>1분 이내</strong>로 단축하여 환자의 치료 골든타임을 확보합니다.</li>
+<li><strong>멀티모달 학습의 정수:</strong> 고해상도 병리 이미지와 방대한 유전체 데이터를 함께 학습하여, 이미지 분석만으로도 정밀한 유전자 활성 예측이 가능합니다.</li>
+<li><strong>세계 최고 수준의 정확도:</strong> 하버드 의대와 마이크로소프트의 모델을 제치고 글로벌 성능 1위(정확도 76.75%, 2.5 버전 기준)를 달성하며 기술력을 입증했습니다.</li>
+</ul>
+</section>
+<section id="상세-설명-정밀-의료의-새로운-표준" class="level2">
+<h2 class="anchored" data-anchor-id="상세-설명-정밀-의료의-새로운-표준">3. 상세 설명: 정밀 의료의 새로운 표준</h2>
+<p>엑사원 패스는 단순히 빠른 것이 아니라, 더 정교하고 경제적인 진단 환경을 제공합니다.</p>
+<section id="데이터의-융합-멀티모달의-힘" class="level3">
+<h3 class="anchored" data-anchor-id="데이터의-융합-멀티모달의-힘">데이터의 융합, ’멀티모달’의 힘</h3>
+<p>엑사원 패스는 ‘멀티모달(Multi-modal)’ 기술을 기반으로 합니다. 이는 단순히 사진을 보는 것을 넘어, 그 사진 이면에 숨겨진 유전적 정보(DNA, RNA)와의 상관관계를 AI가 스스로 학습했음을 의미합니다. 덕분에 고가의 유전체 분석 장비 없이도 일반적인 조직 슬라이드 이미지만으로도 폐암이나 대장암의 유전자 변이를 높은 확률로 예측할 수 있습니다.</p>
+</section>
+<section id="특징-붕괴-문제-해결과-경량화" class="level3">
+<h3 class="anchored" data-anchor-id="특징-붕괴-문제-해결과-경량화">특징 붕괴 문제 해결과 경량화</h3>
+<p>병리 이미지는 수천 개의 작은 조각(Patch)으로 이루어져 있어 분석이 매우 까다롭습니다. 엑사원 패스는 패치 단위부터 전체 이미지까지 유기적으로 학습하는 신기술을 적용해 정확도를 높였습니다. 또한, 경쟁 모델 대비 모델 크기를 1/10로 줄이는 ’경량화’에 성공하여, 실제 의료 현장의 인프라에서도 부담 없이 도입할 수 있는 경제성까지 갖췄습니다.</p>
+</section>
+<section id="글로벌-협력과-오픈소스-생태계" class="level3">
+<h3 class="anchored" data-anchor-id="글로벌-협력과-오픈소스-생태계">글로벌 협력과 오픈소스 생태계</h3>
+<p>LG AI 연구원은 이 기술을 독점하는 대신, 엔비디아(NVIDIA)의 의료 영상 프레임워크인 ’모나이(MONAI)’에 탑재하고 모델을 오픈소스로 공개했습니다. 또한 미국 밴더빌트 대학교 메디컬 센터와 협력하여 실제 임상 현장에서 즉각 활용 가능한 플랫폼을 구축하며 정밀 의료의 대중화를 앞당기고 있습니다.</p>
+</section>
+</section>
+<section id="마무리-전문가-ai가-열어갈-기다림-없는-의료의-미래" class="level2">
+<h2 class="anchored" data-anchor-id="마무리-전문가-ai가-열어갈-기다림-없는-의료의-미래">4. 마무리: 전문가 AI가 열어갈 ‘기다림 없는’ 의료의 미래</h2>
+<p>엑사원 패스는 단순한 기술적 성과를 넘어, 인류가 암이라는 거대한 장벽에 맞서 싸우는 방식에 큰 변화를 예고합니다. 진단 시간의 단축은 곧 환자 맞춤형 치료 전략을 더 빨리 수립할 수 있음을 의미하며, 이는 생존율 향상으로 직결될 수 있습니다. 의료진에게는 가장 든든한 AI 파트너로, 환자에게는 희망의 시간을 선물하는 ’전문가 AI’로서 엑사원 패스가 그려갈 미래가 더욱 기대되는 이유입니다.</p>
+</section>
+<section id="참고-자료" class="level2">
+<h2 class="anchored" data-anchor-id="참고-자료">5. 참고 자료</h2>
+<ol type="1">
+<li><a href="https://lgresearch.ai">LG AI연구원 공식 블로그 - EXAONE Path 기술 설명</a></li>
+<li><a href="https://kmjournal.net">IT 조선 - LG AI연구원, ‘엑사원 패스’ 성능 세계 1위 달성</a></li>
+<li><a href="https://thelec.kr">더렉(THE LEC) - LG AI연구원, 엑사원 2.0 공개 및 의료 AI 성과 발표</a></li>
+<li><a href="https://lg.co.kr">LG 뉴스룸 - LG AI연구원, 글로벌 의료 AI 시장 공략</a></li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>AI</category>
+  <category>Health</category>
+  <category>LG</category>
+  <guid>https://your-website-url.example.com/posts/exaone-path/</guid>
+  <pubDate>Tue, 31 Mar 2026 15:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
@@ -53,6 +115,111 @@
   <category>news</category>
   <guid>https://your-website-url.example.com/posts/welcome/</guid>
   <pubDate>Fri, 27 Mar 2026 15:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://your-website-url.example.com/posts/exaone-path/draft.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="초안-1분-만에-암-진단과-유전자-검사를-lg-ai-연구원의-엑사원-패스exaone-path" class="level1">
+<h1>[초안] 1분 만에 암 진단과 유전자 검사를? LG AI 연구원의 ‘엑사원 패스(EXAONE Path)’</h1>
+<section id="도입-암-진단의-패러다임을-바꿀-수-있을까" class="level2">
+<h2 class="anchored" data-anchor-id="도입-암-진단의-패러다임을-바꿀-수-있을까">1. 도입: 암 진단의 패러다임을 바꿀 수 있을까?</h2>
+<p>사랑하는 가족이나 지인이 암 진단을 받고, 정확한 치료를 위해 유전자 검사 결과를 2주 넘게 기다려야 하는 상황을 상상해 보신 적이 있나요? 그 초조한 시간 동안 병마는 조금씩 더 깊어질지도 모릅니다. 만약 단 1분 만에, 그것도 복잡한 유전체 검사 없이 조직 이미지 한 장으로 암의 종류와 유전자 변이까지 알아낼 수 있다면 어떨까요? LG AI 연구원이 선보인 ’엑사원 패스(EXAONE Path)’가 바로 그 꿈 같은 미래를 현실로 만들고 있습니다.</p>
+</section>
+<section id="핵심-요약-엑사원-패스가-선사하는-3가지-혁신" class="level2">
+<h2 class="anchored" data-anchor-id="핵심-요약-엑사원-패스가-선사하는-3가지-혁신">2. 핵심 요약: 엑사원 패스가 선사하는 3가지 혁신</h2>
+<p>이번 LG AI 연구원의 발표에서 주목해야 할 엑사원 패스의 핵심은 다음과 같습니다.</p>
+<ul>
+<li><strong>진단의 초고속화:</strong> 기존 2주 이상 소요되던 유전자 변이 분석을 <strong>1분 이내</strong>로 단축하여 환자의 치료 골든타임을 확보합니다.</li>
+<li><strong>멀티모달 학습의 정수:</strong> 고해상도 병리 이미지와 방대한 유전체 데이터를 함께 학습하여, 이미지 분석만으로도 정밀한 유전자 활성 예측이 가능합니다.</li>
+<li><strong>세계 최고 수준의 정확도:</strong> 하버드 의대와 마이크로소프트의 모델을 제치고 글로벌 성능 1위(정확도 76.75%, 2.5 버전 기준)를 달성하며 기술력을 입증했습니다.</li>
+</ul>
+</section>
+<section id="상세-설명-정밀-의료의-새로운-표준" class="level2">
+<h2 class="anchored" data-anchor-id="상세-설명-정밀-의료의-새로운-표준">3. 상세 설명: 정밀 의료의 새로운 표준</h2>
+<p>엑사원 패스는 단순히 빠른 것이 아니라, 더 정교하고 경제적인 진단 환경을 제공합니다.</p>
+<section id="데이터의-융합-멀티모달의-힘" class="level3">
+<h3 class="anchored" data-anchor-id="데이터의-융합-멀티모달의-힘">데이터의 융합, ’멀티모달’의 힘</h3>
+<p>엑사원 패스는 ‘멀티모달(Multi-modal)’ 기술을 기반으로 합니다. 이는 단순히 사진을 보는 것을 넘어, 그 사진 이면에 숨겨진 유전적 정보(DNA, RNA)와의 상관관계를 AI가 스스로 학습했음을 의미합니다. 덕분에 고가의 유전체 분석 장비 없이도 일반적인 조직 슬라이드 이미지만으로도 폐암이나 대장암의 유전자 변이를 높은 확률로 예측할 수 있습니다.</p>
+</section>
+<section id="특징-붕괴-문제-해결과-경량화" class="level3">
+<h3 class="anchored" data-anchor-id="특징-붕괴-문제-해결과-경량화">특징 붕괴 문제 해결과 경량화</h3>
+<p>병리 이미지는 수천 개의 작은 조각(Patch)으로 이루어져 있어 분석이 매우 까다롭습니다. 엑사원 패스는 패치 단위부터 전체 이미지까지 유기적으로 학습하는 신기술을 적용해 정확도를 높였습니다. 또한, 경쟁 모델 대비 모델 크기를 1/10로 줄이는 ’경량화’에 성공하여, 실제 의료 현장의 인프라에서도 부담 없이 도입할 수 있는 경제성까지 갖췄습니다.</p>
+</section>
+<section id="글로벌-협력과-오픈소스-생태계" class="level3">
+<h3 class="anchored" data-anchor-id="글로벌-협력과-오픈소스-생태계">글로벌 협력과 오픈소스 생태계</h3>
+<p>LG AI 연구원은 이 기술을 독점하는 대신, 엔비디아(NVIDIA)의 의료 영상 프레임워크인 ’모나이(MONAI)’에 탑재하고 모델을 오픈소스로 공개했습니다. 또한 미국 밴더빌트 대학교 메디컬 센터와 협력하여 실제 임상 현장에서 즉각 활용 가능한 플랫폼을 구축하며 정밀 의료의 대중화를 앞당기고 있습니다.</p>
+</section>
+</section>
+<section id="마무리-전문가-ai가-열어갈-기다림-없는-의료의-미래" class="level2">
+<h2 class="anchored" data-anchor-id="마무리-전문가-ai가-열어갈-기다림-없는-의료의-미래">4. 마무리: 전문가 AI가 열어갈 ‘기다림 없는’ 의료의 미래</h2>
+<p>엑사원 패스는 단순한 기술적 성과를 넘어, 인류가 암이라는 거대한 장벽에 맞서 싸우는 방식에 큰 변화를 예고합니다. 진단 시간의 단축은 곧 환자 맞춤형 치료 전략을 더 빨리 수립할 수 있음을 의미하며, 이는 생존율 향상으로 직결될 수 있습니다. 의료진에게는 가장 든든한 AI 파트너로, 환자에게는 희망의 시간을 선물하는 ’전문가 AI’로서 엑사원 패스가 그려갈 미래가 더욱 기대되는 이유입니다.</p>
+</section>
+<section id="참고-자료" class="level2">
+<h2 class="anchored" data-anchor-id="참고-자료">5. 참고 자료</h2>
+<ol type="1">
+<li><a href="https://lgresearch.ai">LG AI연구원 공식 블로그 - EXAONE Path 기술 설명</a></li>
+<li><a href="https://kmjournal.net">IT 조선 - LG AI연구원, ‘엑사원 패스’ 성능 세계 1위 달성</a></li>
+<li><a href="https://thelec.kr">더렉(THE LEC) - LG AI연구원, 엑사원 2.0 공개 및 의료 AI 성과 발표</a></li>
+<li><a href="https://lg.co.kr">LG 뉴스룸 - LG AI연구원, 글로벌 의료 AI 시장 공략</a></li>
+</ol>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/exaone-path/draft.html</guid>
+  <pubDate>Wed, 01 Apr 2026 08:45:23 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://your-website-url.example.com/posts/exaone-path/search.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="엑사원-패스exaone-path-조사-결과" class="level1">
+<h1>엑사원 패스(EXAONE Path) 조사 결과</h1>
+<p>LG AI연구원의 ’엑사원 패스(EXAONE Path)’는 조직병리 이미지 분석을 통해 암을 진단하고 유전자 변이를 예측하는 차세대 정밀 의료 AI 모델입니다.</p>
+<section id="주요-특징-및-기능" class="level3">
+<h3 class="anchored" data-anchor-id="주요-특징-및-기능">1. 주요 특징 및 기능</h3>
+<ul>
+<li><strong>초고속 유전자 검사:</strong> 기존에 2주 이상 걸리던 유전자 변이 검사를 병리 이미지 분석만으로 1분 이내에 완료할 수 있습니다.</li>
+<li><strong>멀티모달 학습 (Multi-omics):</strong> 고해상도 조직 이미지(WSI)와 유전체 정보(DNA, RNA)를 결합해 학습하여, 고가의 유전체 검사 없이 이미지 분석만으로 유전자 활성 여부를 예측합니다.</li>
+<li><strong>글로벌 성능 1위 (2026.02 기준):</strong> 최신 버전인 ’엑사원 패스 2.5’가 하버드 의대와 마이크로소프트의 모델을 제치고 암 진단 정확도에서 세계 최고 수준(76.75%)을 기록했습니다.</li>
+<li><strong>경제성 및 경량화:</strong> 경쟁 모델 대비 약 1/10 수준의 크기로 모델을 경량화하여 인프라 비용을 절감하면서도 뛰어난 성능을 유지합니다.</li>
+</ul>
+</section>
+<section id="최신-소식" class="level3">
+<h3 class="anchored" data-anchor-id="최신-소식">2. 최신 소식</h3>
+<ul>
+<li><strong>엑사원 패스 2.0 공개 (2025.07):</strong> 유전자 변이 예측 정확도를 78.4%까지 향상시킨 버전을 공개했습니다.</li>
+<li><strong>오픈소스 공개:</strong> 연구 생태계 활성화를 위해 모델을 오픈소스로 공개하였으며, 엔비디아의 ‘모나이(MONAI)’ 플랫폼에도 탑재되었습니다.</li>
+<li><strong>글로벌 협업:</strong> 미국 밴더빌트 대학교 메디컬 센터와 협력하여 임상 현장용 멀티모달 의료 AI 플랫폼을 공동 개발 중입니다.</li>
+</ul>
+</section>
+<section id="참고-자료" class="level3">
+<h3 class="anchored" data-anchor-id="참고-자료">3. 참고 자료</h3>
+<ol type="1">
+<li><a href="https://lgresearch.ai">LG AI연구원 공식 블로그 - EXAONE Path 기술 설명</a></li>
+<li><a href="https://kmjournal.net">IT 조선 - LG AI연구원, ‘엑사원 패스’ 성능 세계 1위 달성</a></li>
+<li><a href="https://thelec.kr">더렉(THE LEC) - LG AI연구원, 엑사원 2.0 공개 및 의료 AI 성과 발표</a></li>
+<li><a href="https://lg.co.kr">LG 뉴스룸 - LG AI연구원, 글로벌 의료 AI 시장 공략</a></li>
+</ol>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/exaone-path/search.html</guid>
+  <pubDate>Wed, 01 Apr 2026 08:45:23 GMT</pubDate>
 </item>
 <item>
   <title>AI와 전문가의 만남: NotebookLM ’추천 노트북(Featured Notebooks)’으로 정보 탐색의 질을 높이다</title>
@@ -109,7 +276,7 @@
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/notebook/</guid>
-  <pubDate>Tue, 31 Mar 2026 09:25:45 GMT</pubDate>
+  <pubDate>Wed, 01 Apr 2026 08:45:23 GMT</pubDate>
 </item>
 </channel>
 </rss>
