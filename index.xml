@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://bcnetkor.github.io/blog_test/</link>
+<atom:link href="https://bcnetkor.github.io/blog_test/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.36</generator>
 <lastBuildDate>Tue, 31 Mar 2026 15:00:00 GMT</lastBuildDate>
 <item>
   <title>1분 만에 암 진단과 유전자 검사를? LG AI 연구원의 ‘엑사원 패스(EXAONE Path)’</title>
   <dc:creator>AI Blog Assistant</dc:creator>
-  <link>https://your-website-url.example.com/posts/exaone-path/</link>
+  <link>https://bcnetkor.github.io/blog_test/posts/exaone-path/</link>
   <description><![CDATA[ 
 
 
@@ -70,13 +70,13 @@
   <category>AI</category>
   <category>Health</category>
   <category>LG</category>
-  <guid>https://your-website-url.example.com/posts/exaone-path/</guid>
+  <guid>https://bcnetkor.github.io/blog_test/posts/exaone-path/</guid>
   <pubDate>Tue, 31 Mar 2026 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://bcnetkor.github.io/blog_test/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -91,14 +91,14 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://bcnetkor.github.io/blog_test/posts/post-with-code/</guid>
   <pubDate>Mon, 30 Mar 2026 15:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://bcnetkor.github.io/blog_test/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://bcnetkor.github.io/blog_test/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -106,19 +106,19 @@
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://bcnetkor.github.io/blog_test/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://bcnetkor.github.io/blog_test/posts/welcome/</guid>
   <pubDate>Fri, 27 Mar 2026 15:00:00 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://your-website-url.example.com/posts/exaone-path/draft.html</link>
+  <link>https://bcnetkor.github.io/blog_test/posts/exaone-path/draft.html</link>
   <description><![CDATA[ 
 
 
@@ -173,12 +173,12 @@
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/exaone-path/draft.html</guid>
-  <pubDate>Wed, 01 Apr 2026 08:45:23 GMT</pubDate>
+  <guid>https://bcnetkor.github.io/blog_test/posts/exaone-path/draft.html</guid>
+  <pubDate>Wed, 01 Apr 2026 08:46:47 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://your-website-url.example.com/posts/exaone-path/search.html</link>
+  <link>https://bcnetkor.github.io/blog_test/posts/exaone-path/search.html</link>
   <description><![CDATA[ 
 
 
@@ -218,12 +218,12 @@
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/exaone-path/search.html</guid>
-  <pubDate>Wed, 01 Apr 2026 08:45:23 GMT</pubDate>
+  <guid>https://bcnetkor.github.io/blog_test/posts/exaone-path/search.html</guid>
+  <pubDate>Wed, 01 Apr 2026 08:46:47 GMT</pubDate>
 </item>
 <item>
   <title>AI와 전문가의 만남: NotebookLM ’추천 노트북(Featured Notebooks)’으로 정보 탐색의 질을 높이다</title>
-  <link>https://your-website-url.example.com/posts/notebook/</link>
+  <link>https://bcnetkor.github.io/blog_test/posts/notebook/</link>
   <description><![CDATA[ 
 
 
@@ -232,7 +232,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/notebook/gemini-image-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://bcnetkor.github.io/blog_test/posts/notebook/gemini-image-1.png" class="img-fluid figure-img"></p>
 <figcaption>현대적인 학습용 노트</figcaption>
 </figure>
 </div>
@@ -240,7 +240,7 @@
 <h2 class="anchored" data-anchor-id="도입-신뢰할-수-있는-정보를-찾는-가장-똑똑한-방법">1. 도입: 신뢰할 수 있는 정보를 찾는 가장 똑똑한 방법</h2>
 <p>방대한 정보의 바다 속에서 여러분은 어떤 기준으로 자료를 찾으시나요? 직접 수집하고 검증하는 과정이 때로는 너무 버겁게 느껴지지는 않으셨나요? 특히 출처가 불분명한 정보들이 넘쳐나는 생성형 AI 시대에는 ’무엇을 믿을 것인가’가 가장 큰 고민입니다.</p>
 <p>만약 구글의 정교한 AI 기술과 세계적인 전문가들의 통찰이 미리 결합된 ’황금 지식 베이스’가 나에게 준비되어 있다면 어떨까요? 구글 NotebookLM이 새롭게 선보인 <strong>‘추천 노트북(Featured Notebooks)’</strong> 기능은 바로 이러한 질문에서 시작되었습니다. 이제 우리는 자료를 찾는 수고를 덜고, 곧바로 깊이 있는 통찰을 얻는 단계로 나아갈 수 있게 되었습니다.</p>
-<p><img src="https://your-website-url.example.com/posts/notebook/gemini-image-2.png" class="img-fluid" alt="디지털 도서관에서 AI와 함께 정보를 탐색하는 연구자"> <em>현대적인 디지털 도서관 환경에서 AI 가이드와 함께 수많은 지식의 보고를 탐험하는 모습</em></p>
+<p><img src="https://bcnetkor.github.io/blog_test/posts/notebook/gemini-image-2.png" class="img-fluid" alt="디지털 도서관에서 AI와 함께 정보를 탐색하는 연구자"> <em>현대적인 디지털 도서관 환경에서 AI 가이드와 함께 수많은 지식의 보고를 탐험하는 모습</em></p>
 </section>
 <section id="핵심-요약-추천-노트북이-선사하는-3가지-변화" class="level2">
 <h2 class="anchored" data-anchor-id="핵심-요약-추천-노트북이-선사하는-3가지-변화">2. 핵심 요약: 추천 노트북이 선사하는 3가지 변화</h2>
@@ -250,7 +250,7 @@
 <li><strong>시그니처 기능의 극대화:</strong> NotebookLM의 강력한 기능인 ’오디오 오버뷰(팟캐스트)’는 이제 전문가의 깊이 있는 텍스트를 생동감 넘치는 대화형 오디오로 변환해 줍니다. 또한 복잡한 전문가의 논리 구조를 ’마인드 맵’을 통해 시각적으로 한눈에 파악할 수 있습니다.</li>
 <li><strong>정보 탐색의 표준 제시:</strong> 추천 노트북은 단순히 콘텐츠를 소비하는 곳이 아닙니다. 전문가들이 어떻게 자료를 분류하고, AI에게 어떤 질문을 던져 가치 있는 답변을 얻어내는지 보여주는 ’AI 리터러시’의 훌륭한 교본 역할을 합니다.</li>
 </ul>
-<p><img src="https://your-website-url.example.com/posts/notebook/gemini-image-3.png" class="img-fluid" alt="AI 기능들의 시각적 결합"> <em>팟캐스트 파형, 지식 그래프, AI 채팅 인터페이스가 조화롭게 결합된 모습</em></p>
+<p><img src="https://bcnetkor.github.io/blog_test/posts/notebook/gemini-image-3.png" class="img-fluid" alt="AI 기능들의 시각적 결합"> <em>팟캐스트 파형, 지식 그래프, AI 채팅 인터페이스가 조화롭게 결합된 모습</em></p>
 </section>
 <section id="상세-설명-전문가의-통찰을-내-것으로-만드는-경험" class="level2">
 <h2 class="anchored" data-anchor-id="상세-설명-전문가의-통찰을-내-것으로-만드는-경험">3. 상세 설명: 전문가의 통찰을 내 것으로 만드는 경험</h2>
@@ -262,21 +262,21 @@
 <section id="읽기-전용이-주는-신뢰성" class="level3">
 <h3 class="anchored" data-anchor-id="읽기-전용이-주는-신뢰성">’읽기 전용’이 주는 신뢰성</h3>
 <p>추천 노트북은 사용자가 임의로 소스를 수정할 수 없는 <strong>‘읽기 전용’</strong>으로 제공됩니다. 이는 정보의 왜곡이나 오염 없이 전문가가 의도한 데이터의 무결성을 유지하기 위함입니다. 사용자는 이 견고한 기반 위에서 자신만의 질문을 던지고, AI가 생성한 통찰을 별도의 노트(아티팩트)로 저장하며 자신만의 지식 체계를 구축할 수 있습니다.</p>
-<p><img src="https://your-website-url.example.com/posts/notebook/gemini-image-4.png" class="img-fluid" alt="다양한 분야의 지식이 결합된 인터페이스"> <em>셰익스피어부터 경제, 자연 과학까지 다양한 지식의 파편들이 유기적으로 연결된 모습</em></p>
+<p><img src="https://bcnetkor.github.io/blog_test/posts/notebook/gemini-image-4.png" class="img-fluid" alt="다양한 분야의 지식이 결합된 인터페이스"> <em>셰익스피어부터 경제, 자연 과학까지 다양한 지식의 파편들이 유기적으로 연결된 모습</em></p>
 </section>
 </section>
 <section id="마무리-ai가-지식의-길잡이가-되는-미래" class="level2">
 <h2 class="anchored" data-anchor-id="마무리-ai가-지식의-길잡이가-되는-미래">4. 마무리: AI가 지식의 길잡이가 되는 미래</h2>
 <p>NotebookLM의 추천 노트북 기능은 AI의 역할이 단순한 ’검색 도구’에서 <strong>‘지식의 큐레이터이자 분석가’</strong>로 진화하고 있음을 보여줍니다. 우리가 직접 모든 정보를 검증할 필요 없이, 신뢰할 수 있는 소스 위에서 AI와 함께 깊이 있게 대화하는 방식은 앞으로 지식 노동의 패러다임을 바꿀 것입니다.</p>
 <p>누구나 전문가의 도서관에 접근할 수 있게 된 지금, 중요한 것은 ’어떤 자료를 가졌는가’가 아니라 <strong>‘어떤 질문을 던져 어떤 가치를 끌어낼 것인가’</strong>입니다. 지금 바로 NotebookLM의 홈 화면에서 추천 노트북을 열고, 여러분만의 새로운 통찰을 발견해 보세요.</p>
-<p><img src="https://your-website-url.example.com/posts/notebook/gemini-image-5.png" class="img-fluid" alt="지식의 미래를 향한 경로"> <em>지식의 핵심을 향해 나아가는 빛의 길과 AI가 안내하는 미래의 탐색 경험</em></p>
+<p><img src="https://bcnetkor.github.io/blog_test/posts/notebook/gemini-image-5.png" class="img-fluid" alt="지식의 미래를 향한 경로"> <em>지식의 핵심을 향해 나아가는 빛의 길과 AI가 안내하는 미래의 탐색 경험</em></p>
 
 
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/notebook/</guid>
-  <pubDate>Wed, 01 Apr 2026 08:45:23 GMT</pubDate>
+  <guid>https://bcnetkor.github.io/blog_test/posts/notebook/</guid>
+  <pubDate>Wed, 01 Apr 2026 08:46:47 GMT</pubDate>
 </item>
 </channel>
 </rss>
